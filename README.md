@@ -127,7 +127,7 @@ Then try something like this link
 
 **http://3.211.152.174/users**
 
-Trying to go through directly to just the IP does not work,** you have to specify the users or the users/sing_in option in the link**
+Trying to go through directly to just the IP does not work,**you have to specify the users or the users/sing_in option in the link**
 
 You should be able to access gitlab with this, but first you will be met with a login screen
 
