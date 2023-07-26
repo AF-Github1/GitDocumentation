@@ -168,7 +168,7 @@ Sets config/shows config
 
 Sets user name
 
-**git config --global user.email AF@enta.pt**
+**git config --global user.email AF@example.pt**
 
 Sets user email
 
