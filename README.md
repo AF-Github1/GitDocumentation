@@ -14,7 +14,7 @@ https://docs.gitlab.com/
 
 # Git documentation self learning
 
-# Installation (Redhat)
+# Installation (RHEL-9.2.0)
 
 Install git
 
