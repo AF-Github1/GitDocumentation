@@ -39,7 +39,8 @@ This ignores anything ending in .oa
 
 # Bare repository
 
-Repository you can’t commit files on. You can still fetch, push and pull from/to it, just not work on it directly
+Repository you can’t commit files on. 
+You can still fetch, push and pull from/to it, just not work on it directly
 
 
 # Setting up your git server
