@@ -133,6 +133,7 @@ You should be able to access gitlab with this, but first you will be met with a 
 
 
 Use username **root**
+
 Use the password from **/etc/gitlab/initial_root_password**
 
 This password will get deleted after 24 hours. So **change your password after logging in**
